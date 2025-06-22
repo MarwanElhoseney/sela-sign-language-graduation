@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247001295346",
+    "project_id": "sela-app-grad",
+    "storage_bucket": "sela-app-grad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247001295346:android:6d1717cc1b168db6ee236b",
+        "android_client_info": {
+          "package_name": "com.example.sela_gradution_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXvzACHmK6DIH6LU3Zh97b-2orGFfivHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
