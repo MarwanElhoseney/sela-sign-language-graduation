@@ -1,16 +1,45 @@
-# sela_gradution_app
+Sela Sign Language – Graduation Project
+Overview
 
-A new Flutter project.
+Sela is a mobile application developed using Flutter as a graduation project.
+The app aims to help users learn and understand sign language in a simple and interactive way, making communication easier between deaf or mute individuals and the hearing community.
 
-## Getting Started
+The application provides an intuitive interface that allows users to explore sign language gestures and improve their communication skills.
 
-This project is a starting point for a Flutter application.
+Project Goals
 
-A few resources to get you started if this is your first Flutter project:
+Make sign language learning easier and more accessible.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Provide a mobile-friendly platform for learning sign language.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Promote communication between deaf/mute individuals and others.
+
+Features
+
+ Learn sign language gestures
+
+ Clean and user-friendly UI
+
+ Fast performance using Flutter
+
+ Key Responsibilities & Achievements: 
+• Developed an AI-powered mobile app using Flutter to translate Arabic sign language ↔ text & speech. 
+• Applied clean architecture (data, domain, presentation) and Provider for scalable state management. 
+• Integrated Firebase (Auth, Firestore) for secure authentication, user verification, and real-time storage. 
+• Implemented camera & video recording features with REST API integration for AI model inference.
+
+Project Structure
+lib/
+│
+├── screens/        
+├── widgets/        
+├── models/        
+├── services/      
+│
+└── main.dart  
+
+
+
+🎓 Educational content for beginners
+
+🔍 Easy navigation between lessons
