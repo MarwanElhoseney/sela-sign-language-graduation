@@ -40,6 +40,7 @@ lib/
 
 
 ## 🎥 App Demo
+![Video Alt](https://github.com/MarwanElhoseney/mapping-app/blob/4e05185ca7b8759b9ff1f5e075ecb99439ebb25c/images.jpeg)
 
-[Click here to watch the demo video](https://raw.githubusercontent.com/MarwanElhoseney/sela-sign-language-graduation/main/demo.mp4)
+
 
