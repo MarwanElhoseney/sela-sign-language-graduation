@@ -39,8 +39,7 @@ lib/
 └── main.dart  
 
 
-
 ## 🎥 App Demo
 
-[Click here to watch the demo video](https://github.com/MarwanElhoseney/sela-sign-language-graduation/blob/main/demo.mp4)
+[Click here to watch the demo video](https://raw.githubusercontent.com/MarwanElhoseney/sela-sign-language-graduation/main/demo.mp4)
 
