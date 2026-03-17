@@ -43,3 +43,7 @@ lib/
 🎓 Educational content for beginners
 
 🔍 Easy navigation between lessons
+
+## 🎥 App Demo
+
+[Watch the demo video](https://github.com/MarwanElhoseney/sela-sign-language-graduation/blob/main/WhatsApp%20Video%202026-03-17%20at%203.32.55%20PM.mp4)
