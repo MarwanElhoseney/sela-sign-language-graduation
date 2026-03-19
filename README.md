@@ -40,7 +40,4 @@ lib/
 
 
 ## 🎥 App Demo
-![Video Alt](https://github.com/MarwanElhoseney/sela-sign-language-graduation/blob/a26dc0680c0d76e4359884d040a5fe203bcff1ae/demo.mp4)
-
-
-
+https://github.com/user-attachments/assets/e6e01baa-8f55-48e7-937a-92429e23f433
