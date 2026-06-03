@@ -19,7 +19,11 @@ The app integrates **Computer Vision, AI models, and Firebase services** to deli
 
 ---
 
+## 🎥 App Demo
+https://github.com/user-attachments/assets/e6e01baa-8f55-48e7-937a-92429e23f433
 ###  Bidirectional Translation
+
+---
 
 * **Sign ➝ Text**
 * **Text ➝ Sign (Video playback)**
@@ -165,5 +169,3 @@ lib/
 
 
 
-## 🎥 App Demo
-https://github.com/user-attachments/assets/e6e01baa-8f55-48e7-937a-92429e23f433
