@@ -67,13 +67,6 @@ https://github.com/user-attachments/assets/e6e01baa-8f55-48e7-937a-92429e23f433
 
 ##  Smart AI Flow
 
-![Image](https://www.researchgate.net/profile/Sn-Demidenko/publication/282311300/figure/fig2/AS%3A391468079435783%401470344671452/Sign-language-recognition-flow-chart.png)
-
-![Image](https://d2d1s3b58ci0ra.cloudfront.net/2021/01/pipeline-architecture-mobidev.png)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AMEu05n0HIO3iS_RyYiosPA.png)
-
-![Image](https://www.researchgate.net/publication/348979911/figure/fig2/AS%3A11431281211387571%401702395011732/Pipeline-of-hand-gesture-recognition-HGR-based-HCI-design-1-User-performs.tif)
 
 1. User records sign language video
 2. Video is sent to backend API
